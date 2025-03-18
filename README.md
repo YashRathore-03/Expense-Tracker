@@ -80,10 +80,6 @@ A comprehensive MERN stack application for tracking personal and business expens
 
 To deploy the application, configure environment variables in the Vercel dashboard for the frontend and use platforms like Heroku, Render, or Railway for the backend.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Happy tracking!
